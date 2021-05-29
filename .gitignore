@@ -1,0 +1,10 @@
+/shortlist_model/cache_dir/*
+/shortlist_model/outputs/*
+/shortlist_model/runs/*
+/shortlist_model/wandb/*
+/shortlist_model/models/*
+/author_background_model/cache_dir/*
+/author_background_model/outputs/*
+/author_background_model/runs/*
+/author_background_model/wandb/*
+/author_background_model/models/*
