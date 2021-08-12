@@ -2,6 +2,8 @@
 
 A template of README best practices to make your README simple to understand and easy to use. 
 
+To access the CSV files with all of the MIT LCP publications, please access the Google Drive folder: [MIT LCP CSVs](https://drive.google.com/drive/folders/12D8C8zE6Kxj2Fr3ima8-ePRVQCOAotvx?usp=sharing)
+
 ## Table of Contents
 
 - [Installation](#installation)
