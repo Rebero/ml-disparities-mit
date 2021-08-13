@@ -8,3 +8,6 @@
 /author_background_model/runs/*
 /author_background_model/wandb/*
 /author_background_model/models/*
+
+# extraneous files to ignore
+.DS_Store
